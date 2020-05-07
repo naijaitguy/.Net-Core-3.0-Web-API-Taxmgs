@@ -1,0 +1,234 @@
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.exe
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.AssemblyInfoInputs.cache
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.AssemblyInfo.cs
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.RazorTargetAssemblyInfo.cache
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\staticwebassets\TaxtMgsApi.StaticWebAssets.Manifest.cache
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\staticwebassets\TaxtMgsApi.StaticWebAssets.xml
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.csproj.CopyComplete
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.deps.json
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.runtimeconfig.json
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.runtimeconfig.dev.json
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.pdb
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.csproj.CoreCompileInputs.cache
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.dll
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.pdb
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.genruntimeconfig.cache
+C:\Users\BITS CYBER TECH\Documents\Visual Studio 2019\Projects\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.csprojAssemblyReference.cache
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.exe
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.deps.json
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.runtimeconfig.json
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.runtimeconfig.dev.json
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.pdb
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.csproj.CoreCompileInputs.cache
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.AssemblyInfoInputs.cache
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.AssemblyInfo.cs
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.RazorTargetAssemblyInfo.cache
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.csproj.CopyComplete
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\staticwebassets\TaxtMgsApi.StaticWebAssets.Manifest.cache
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\staticwebassets\TaxtMgsApi.StaticWebAssets.xml
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.dll
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.pdb
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.genruntimeconfig.cache
+C:\Users\BABATUNDE\Desktop\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.csprojAssemblyReference.cache
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.csproj.CoreCompileInputs.cache
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.AssemblyInfoInputs.cache
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.AssemblyInfo.cs
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.exe
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.deps.json
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.runtimeconfig.json
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.runtimeconfig.dev.json
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.pdb
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.RazorTargetAssemblyInfo.cache
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.csproj.CopyComplete
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\staticwebassets\TaxtMgsApi.StaticWebAssets.Manifest.cache
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\staticwebassets\TaxtMgsApi.StaticWebAssets.xml
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.dll
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.pdb
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.genruntimeconfig.cache
+C:\Users\BABATUNDE\Documents\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.csprojAssemblyReference.cache
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.exe
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.deps.json
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.runtimeconfig.json
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.runtimeconfig.dev.json
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\TaxtMgsApi.pdb
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.csprojAssemblyReference.cache
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.csproj.CoreCompileInputs.cache
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.AssemblyInfoInputs.cache
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.AssemblyInfo.cs
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.RazorTargetAssemblyInfo.cache
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.csproj.CopyComplete
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\staticwebassets\TaxtMgsApi.StaticWebAssets.Manifest.cache
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\staticwebassets\TaxtMgsApi.StaticWebAssets.xml
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.dll
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.pdb
+C:\Users\BABATUNDE\Documents\WORKSHOP\Visual Studio 2019\Project\TaxtMgsApi\TaxtMgsApi\obj\Debug\netcoreapp3.1\TaxtMgsApi.genruntimeconfig.cache

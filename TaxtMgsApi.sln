@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxtMgsApi", "TaxtMgsApi\TaxtMgsApi.csproj", "{976B702B-E3C2-415D-B66E-A43DE003A8AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{976B702B-E3C2-415D-B66E-A43DE003A8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976B702B-E3C2-415D-B66E-A43DE003A8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976B702B-E3C2-415D-B66E-A43DE003A8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976B702B-E3C2-415D-B66E-A43DE003A8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06AF03FD-FBC8-4E75-9AD2-0F2584F2758D}
+	EndGlobalSection
+EndGlobal
